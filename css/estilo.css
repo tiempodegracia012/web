@@ -1,0 +1,118 @@
+
+
+body{
+    background-color:#1c2833;height:
+
+
+}
+
+nav{
+   
+    height: 80px; 80px;  
+}
+
+.lo{
+    background-color:#aeb6bf;
+     background-image: url(../banners.png);    
+}
+
+
+.titulo{
+  font-family: "Gruppo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.container{
+width: 80%;
+max-width: 1000px;
+margin-left: 10%;
+overflow: hidden;
+
+
+}
+
+.container2{
+width: 100%;
+max-width: 1000px;
+margin-left: 0%;
+overflow: hidden;
+
+
+}
+
+main{
+    width: 70%;
+
+}
+h2, h5{
+    color: white;
+ font-family: "Marmelad", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+}
+
+
+.img1{
+
+ 
+    padding-left: 0%|;
+    float: center;
+
+    opacity: 1;
+}
+
+
+
+.imi{
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+}
+
+
+
+.boton-flotante {
+
+  padding-left: 1000px;
+  height: 70px;
+  width: 88px;
+  box-shadow: 0px 1px 10px rgba(0,0,0,50);
+  text-decoration: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #0df053;
+  color: white;
+  padding: 15px;
+  border-radius: 50%;
+  font-size: 12.5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.boton-flotante:hover {
+  background-color: #128c2e;
+  transform: scale(1.1);
+}
+
+/* Ícono de WhatsApp */
+.fas.fa-whatsapp {
+  /* Estilos para el icono, si es necesario */
+}
+
+footer{
+    background-color: #cdd6de;
+}
+
+
+
+.source{
+    background-color:red ;
+    height: 1000px;
+
+}
+
+.musi{
+    height:200px;
+}
